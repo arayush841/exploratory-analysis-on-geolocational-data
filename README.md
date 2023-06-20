@@ -1,4 +1,5 @@
-Exploratory Analysis on Geolocational Data
+#Exploratory Analysis on Geolocational Data
+
 This project helps a user find restaurants in a City. The bigger the size of circle more the number of restaurants present at that location.
 
 This project uses K-means clustering to cluster a group of amenities and find their centroid. 
